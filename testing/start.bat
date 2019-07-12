@@ -1,0 +1,2 @@
+node buggy.js
+pause
